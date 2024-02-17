@@ -129,7 +129,8 @@ const resetForm = () => {
     width: 70%;
     margin: 0 auto;
 }
-
+</style>
+<style>
 .login-form>>>.el-form--label-top .el-form-item__label {
     padding: 0;
 }
